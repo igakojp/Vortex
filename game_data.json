@@ -1,7 +1,7 @@
 {
     "Demo": {
         "all_time_peak": 4,
-        "total_visits": 74358,
+        "total_visits": 74361,
         "url": "https://playvortex.io/games/1",
         "thumbnail": "https://playvortex.io/api/games/1/thumbnail?v=51765f84",
         "history": [
@@ -96,12 +96,16 @@
             {
                 "time": "2026-08-21 19:33",
                 "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 0
             }
         ]
     },
     "Snowy Peak": {
         "all_time_peak": 6,
-        "total_visits": 33936,
+        "total_visits": 33941,
         "url": "https://playvortex.io/games/3",
         "thumbnail": "https://playvortex.io/api/games/3/thumbnail?v=afc5ffe7",
         "history": [
@@ -196,12 +200,16 @@
             {
                 "time": "2026-08-21 19:33",
                 "active_players": 2
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 1
             }
         ]
     },
     "The Crossbridges": {
         "all_time_peak": 3,
-        "total_visits": 32173,
+        "total_visits": 32174,
         "url": "https://playvortex.io/games/4",
         "thumbnail": "https://playvortex.io/api/games/4/thumbnail?v=16c2a180",
         "history": [
@@ -295,6 +303,10 @@
             },
             {
                 "time": "2026-08-21 19:33",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 19:43",
                 "active_players": 1
             }
         ]
@@ -396,12 +408,16 @@
             {
                 "time": "2026-08-21 19:33",
                 "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 0
             }
         ]
     },
     "Pirate Ship Island": {
         "all_time_peak": 10,
-        "total_visits": 14353,
+        "total_visits": 14354,
         "url": "https://playvortex.io/games/6",
         "thumbnail": "https://playvortex.io/api/games/6/thumbnail?v=6248e070",
         "history": [
@@ -496,12 +512,16 @@
             {
                 "time": "2026-08-21 19:33",
                 "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 1
             }
         ]
     },
     "Vortex HQ": {
         "all_time_peak": 1,
-        "total_visits": 17403,
+        "total_visits": 17404,
         "url": "https://playvortex.io/games/7",
         "thumbnail": "https://playvortex.io/api/games/7/thumbnail?v=61f82a80",
         "history": [
@@ -596,12 +616,16 @@
             {
                 "time": "2026-08-21 19:33",
                 "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 0
             }
         ]
     },
     "Vortexia": {
         "all_time_peak": 128,
-        "total_visits": 140295,
+        "total_visits": 140331,
         "url": "https://playvortex.io/games/8",
         "thumbnail": "https://playvortex.io/api/games/8/thumbnail?v=c4933044",
         "history": [
@@ -696,12 +720,16 @@
             {
                 "time": "2026-08-21 19:33",
                 "active_players": 47
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 41
             }
         ]
     },
     "Familiar Pizzeria": {
         "all_time_peak": 1,
-        "total_visits": 16636,
+        "total_visits": 16637,
         "url": "https://playvortex.io/games/9",
         "thumbnail": "https://playvortex.io/api/games/9/thumbnail?v=af25305a",
         "history": [
@@ -796,12 +824,16 @@
             {
                 "time": "2026-08-21 19:33",
                 "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 1
             }
         ]
     },
     "Anixus Pond": {
-        "all_time_peak": 2,
-        "total_visits": 15803,
+        "all_time_peak": 6,
+        "total_visits": 15810,
         "url": "https://playvortex.io/games/10",
         "thumbnail": "https://playvortex.io/api/games/10/thumbnail?v=65d14a72",
         "history": [
@@ -896,6 +928,10 @@
             {
                 "time": "2026-08-21 19:33",
                 "active_players": 2
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 6
             }
         ]
     },
@@ -996,12 +1032,16 @@
             {
                 "time": "2026-08-21 19:33",
                 "active_players": 1
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 0
             }
         ]
     },
     "Classic House": {
         "all_time_peak": 5,
-        "total_visits": 17676,
+        "total_visits": 17678,
         "url": "https://playvortex.io/games/13",
         "thumbnail": "https://playvortex.io/api/games/13/thumbnail?v=52c913b4",
         "history": [
@@ -1096,12 +1136,16 @@
             {
                 "time": "2026-08-21 19:33",
                 "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 1
             }
         ]
     },
     "Backrooms": {
         "all_time_peak": 7,
-        "total_visits": 21021,
+        "total_visits": 21024,
         "url": "https://playvortex.io/games/14",
         "thumbnail": "https://playvortex.io/api/games/14/thumbnail?v=3e7e05f1",
         "history": [
@@ -1195,6 +1239,10 @@
             },
             {
                 "time": "2026-08-21 19:33",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:43",
                 "active_players": 0
             }
         ]
