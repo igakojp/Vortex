@@ -61,13 +61,17 @@
             {
                 "time": "2026-08-21 18:09",
                 "active_players": 68
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 55
             }
         ],
         "url": "https://playvortex.io/games/8",
         "thumbnail": "https://playvortex.io/assets/thumbnails/8.png?v=c4933044"
     },
     "Demo": {
-        "all_time_peak": 2,
+        "all_time_peak": 4,
         "history": [
             {
                 "time": "2026-08-21 16:37",
@@ -128,6 +132,10 @@
             {
                 "time": "2026-08-21 18:09",
                 "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 4
             }
         ],
         "url": "https://playvortex.io/games/1",
@@ -194,6 +202,10 @@
             },
             {
                 "time": "2026-08-21 18:09",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:23",
                 "active_players": 0
             }
         ],
@@ -262,13 +274,17 @@
             {
                 "time": "2026-08-21 18:09",
                 "active_players": 1
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 1
             }
         ],
         "url": "https://playvortex.io/games/4",
         "thumbnail": "https://playvortex.io/assets/thumbnails/4.png?v=16c2a180"
     },
     "Banlands": {
-        "all_time_peak": 6,
+        "all_time_peak": 12,
         "history": [
             {
                 "time": "2026-08-21 16:37",
@@ -329,13 +345,17 @@
             {
                 "time": "2026-08-21 18:09",
                 "active_players": 3
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 12
             }
         ],
         "url": "https://playvortex.io/games/11",
         "thumbnail": "https://playvortex.io/assets/thumbnails/11.png?v=02171a1a"
     },
     "Backrooms": {
-        "all_time_peak": 3,
+        "all_time_peak": 7,
         "history": [
             {
                 "time": "2026-08-21 16:37",
@@ -396,6 +416,10 @@
             {
                 "time": "2026-08-21 18:09",
                 "active_players": 3
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 7
             }
         ],
         "url": "https://playvortex.io/games/14",
@@ -463,6 +487,10 @@
             {
                 "time": "2026-08-21 18:09",
                 "active_players": 4
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 2
             }
         ],
         "url": "https://playvortex.io/games/13",
@@ -529,6 +557,10 @@
             },
             {
                 "time": "2026-08-21 18:09",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:23",
                 "active_players": 0
             }
         ],
@@ -597,6 +629,10 @@
             {
                 "time": "2026-08-21 18:09",
                 "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 0
             }
         ],
         "url": "https://playvortex.io/games/9",
@@ -664,6 +700,10 @@
             {
                 "time": "2026-08-21 18:09",
                 "active_players": 1
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 0
             }
         ],
         "url": "https://playvortex.io/games/10",
@@ -730,6 +770,10 @@
             },
             {
                 "time": "2026-08-21 18:09",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:23",
                 "active_players": 0
             }
         ],
@@ -798,6 +842,10 @@
             {
                 "time": "2026-08-21 18:09",
                 "active_players": 3
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 0
             }
         ],
         "url": "https://playvortex.io/games/6",
