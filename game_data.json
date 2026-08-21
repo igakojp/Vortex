@@ -1,6 +1,2001 @@
 {
+    "Demo": {
+        "all_time_peak": 6,
+        "total_visits": 74643,
+        "url": "https://playvortex.io/games/1",
+        "thumbnail": "https://playvortex.io/api/games/1/thumbnail?v=51765f84",
+        "history": [
+            {
+                "time": "2026-08-21 16:37",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:51",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 16:56",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 16:57",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 16:59",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 17:02",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 17:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:23",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 17:34",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:44",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:54",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:04",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:08",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:09",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 18:52",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 18:53",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 18:55",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 19:03",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 19:13",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:33",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:53",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 20:01",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 20:10",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 20:20",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 20:30",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:50",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 21:00",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-21 21:10",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 21:20",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:30",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:40",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 21:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:00",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 22:10",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 22:21",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 22:31",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 22:41",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 22:51",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 23:01",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:11",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:21",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:31",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:51",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 00:01",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 00:11",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 00:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:31",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 00:41",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 00:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:01",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:11",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 01:22",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:32",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:42",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:52",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 02:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:12",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 02:22",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:32",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:42",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:52",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:02",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 03:12",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 03:22",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 03:32",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 03:42",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 03:52",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 04:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:13",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 04:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:33",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 04:43",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:53",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 05:03",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 05:27",
+                "active_players": 1
+            }
+        ]
+    },
+    "Snowy Peak": {
+        "all_time_peak": 7,
+        "total_visits": 34071,
+        "url": "https://playvortex.io/games/3",
+        "thumbnail": "https://playvortex.io/api/games/3/thumbnail?v=afc5ffe7",
+        "history": [
+            {
+                "time": "2026-08-21 16:37",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 16:40",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 16:51",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 16:56",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 16:57",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 16:59",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:34",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:44",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-21 17:54",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-21 18:04",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 18:08",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 18:09",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:52",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 18:53",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 18:55",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 19:03",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:13",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:23",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 19:33",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 19:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:20",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 20:30",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-21 20:40",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 20:50",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 21:00",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:10",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 21:20",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:30",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 21:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:00",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:31",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 22:41",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 22:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:11",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:21",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 23:31",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 23:41",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:01",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 00:11",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 00:21",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 00:31",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:51",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:01",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:11",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:22",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:32",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 01:42",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 01:52",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 02:02",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 02:12",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:22",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:32",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:42",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 02:52",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 03:02",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 03:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:22",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 03:32",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 03:42",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 03:52",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:13",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:23",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 04:33",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:43",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 04:53",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-22 05:03",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 05:27",
+                "active_players": 0
+            }
+        ]
+    },
+    "The Crossbridges": {
+        "all_time_peak": 8,
+        "total_visits": 32345,
+        "url": "https://playvortex.io/games/4",
+        "thumbnail": "https://playvortex.io/api/games/4/thumbnail?v=16c2a180",
+        "history": [
+            {
+                "time": "2026-08-21 16:37",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:51",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 16:56",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 16:57",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 16:59",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:34",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:44",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:54",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:04",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:08",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 18:09",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 18:52",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 18:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:55",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 19:03",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:13",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:23",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 19:33",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 19:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:20",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 20:30",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 20:40",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-21 20:50",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 21:00",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:20",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 21:30",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-21 21:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:00",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:31",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:51",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:01",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 23:11",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:31",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:41",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:51",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 00:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:11",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:31",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:41",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 00:51",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:01",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 01:11",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 01:22",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:32",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 01:42",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 01:52",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-22 02:02",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 02:12",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 02:22",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-22 02:32",
+                "active_players": 8
+            },
+            {
+                "time": "2026-08-22 02:42",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 02:52",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 03:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:12",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 03:22",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 03:32",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 03:42",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-22 03:52",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 04:02",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 04:13",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 04:23",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 04:33",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 04:43",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 04:53",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 05:03",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 05:27",
+                "active_players": 0
+            }
+        ]
+    },
+    "Oasis": {
+        "all_time_peak": 18,
+        "total_visits": 15903,
+        "url": "https://playvortex.io/games/5",
+        "thumbnail": "https://playvortex.io/api/games/5/thumbnail?v=a894fb4a",
+        "history": [
+            {
+                "time": "2026-08-21 16:37",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:56",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:57",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:59",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:34",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 17:44",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:54",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:04",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:08",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:09",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:52",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:55",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:03",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:13",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:33",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:53",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 20:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:20",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:30",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 20:40",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 20:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:00",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:20",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:30",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:00",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:10",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 22:21",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-21 22:31",
+                "active_players": 9
+            },
+            {
+                "time": "2026-08-21 22:41",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-21 22:51",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-21 23:01",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 23:11",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 23:21",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:31",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:11",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 00:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:31",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:41",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 00:51",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 01:01",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-22 01:11",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-22 01:22",
+                "active_players": 10
+            },
+            {
+                "time": "2026-08-22 01:32",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-22 01:42",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 01:52",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 02:02",
+                "active_players": 15
+            },
+            {
+                "time": "2026-08-22 02:12",
+                "active_players": 12
+            },
+            {
+                "time": "2026-08-22 02:22",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-22 02:32",
+                "active_players": 11
+            },
+            {
+                "time": "2026-08-22 02:42",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:52",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 03:02",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 03:12",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 03:22",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 03:32",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 03:42",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-22 03:52",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 04:02",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-22 04:13",
+                "active_players": 9
+            },
+            {
+                "time": "2026-08-22 04:23",
+                "active_players": 12
+            },
+            {
+                "time": "2026-08-22 04:33",
+                "active_players": 14
+            },
+            {
+                "time": "2026-08-22 04:43",
+                "active_players": 18
+            },
+            {
+                "time": "2026-08-22 04:53",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-22 05:03",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-22 05:27",
+                "active_players": 2
+            }
+        ]
+    },
+    "Pirate Ship Island": {
+        "all_time_peak": 10,
+        "total_visits": 14465,
+        "url": "https://playvortex.io/games/6",
+        "thumbnail": "https://playvortex.io/api/games/6/thumbnail?v=6248e070",
+        "history": [
+            {
+                "time": "2026-08-21 16:37",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:56",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:57",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:59",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:34",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:44",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:54",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:04",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:08",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 18:09",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:52",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 18:53",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 18:55",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 19:03",
+                "active_players": 10
+            },
+            {
+                "time": "2026-08-21 19:13",
+                "active_players": 8
+            },
+            {
+                "time": "2026-08-21 19:23",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 19:33",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 19:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:20",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:30",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:00",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:10",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 21:20",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:30",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:40",
+                "active_players": 9
+            },
+            {
+                "time": "2026-08-21 21:50",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 22:00",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 22:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:21",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 22:31",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:11",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:31",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:41",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:51",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 00:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:11",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:31",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:41",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 00:51",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 01:01",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 01:11",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 01:22",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 01:32",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:42",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:52",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:22",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:32",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:42",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:52",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:22",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:32",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:42",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 03:52",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 04:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:13",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:33",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:43",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 04:53",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 05:03",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 05:27",
+                "active_players": 2
+            }
+        ]
+    },
+    "Vortex HQ": {
+        "all_time_peak": 8,
+        "total_visits": 17500,
+        "url": "https://playvortex.io/games/7",
+        "thumbnail": "https://playvortex.io/api/games/7/thumbnail?v=61f82a80",
+        "history": [
+            {
+                "time": "2026-08-21 16:37",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:40",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 16:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:56",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:57",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 16:59",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:34",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:44",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 17:54",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:04",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:08",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:09",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:52",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:55",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:03",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:13",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:33",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:20",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:30",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:50",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 21:00",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:20",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:30",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:40",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 21:50",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-21 22:00",
+                "active_players": 8
+            },
+            {
+                "time": "2026-08-21 22:10",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 22:21",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 22:31",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:11",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 23:21",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 23:31",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:11",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 00:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:31",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 00:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:01",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:11",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:22",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:32",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:42",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:52",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:02",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:22",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:32",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:42",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:52",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:22",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:32",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 03:42",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 03:52",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 04:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:13",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:23",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 04:33",
+                "active_players": 8
+            },
+            {
+                "time": "2026-08-22 04:43",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 04:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 05:03",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 05:27",
+                "active_players": 0
+            }
+        ]
+    },
     "Vortexia": {
         "all_time_peak": 128,
+        "total_visits": 142701,
+        "url": "https://playvortex.io/games/8",
+        "thumbnail": "https://playvortex.io/api/games/8/thumbnail?v=c4933044",
         "history": [
             {
                 "time": "2026-08-21 16:37",
@@ -67,16 +2062,272 @@
                 "active_players": 55
             },
             {
-                "time": "2026-08-22 05:27",
+                "time": "2026-08-21 18:52",
+                "active_players": 45
+            },
+            {
+                "time": "2026-08-21 18:53",
+                "active_players": 46
+            },
+            {
+                "time": "2026-08-21 18:55",
+                "active_players": 42
+            },
+            {
+                "time": "2026-08-21 19:03",
+                "active_players": 43
+            },
+            {
+                "time": "2026-08-21 19:13",
+                "active_players": 41
+            },
+            {
+                "time": "2026-08-21 19:23",
+                "active_players": 44
+            },
+            {
+                "time": "2026-08-21 19:33",
                 "active_players": 47
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 41
+            },
+            {
+                "time": "2026-08-21 19:53",
+                "active_players": 43
+            },
+            {
+                "time": "2026-08-21 20:01",
+                "active_players": 45
+            },
+            {
+                "time": "2026-08-21 20:10",
+                "active_players": 42
+            },
+            {
+                "time": "2026-08-21 20:20",
+                "active_players": 37
+            },
+            {
+                "time": "2026-08-21 20:30",
+                "active_players": 52
+            },
+            {
+                "time": "2026-08-21 20:40",
+                "active_players": 41
+            },
+            {
+                "time": "2026-08-21 20:50",
+                "active_players": 39
+            },
+            {
+                "time": "2026-08-21 21:00",
+                "active_players": 36
+            },
+            {
+                "time": "2026-08-21 21:10",
+                "active_players": 42
+            },
+            {
+                "time": "2026-08-21 21:20",
+                "active_players": 43
+            },
+            {
+                "time": "2026-08-21 21:30",
+                "active_players": 49
+            },
+            {
+                "time": "2026-08-21 21:40",
+                "active_players": 58
+            },
+            {
+                "time": "2026-08-21 21:50",
+                "active_players": 51
+            },
+            {
+                "time": "2026-08-21 22:00",
+                "active_players": 47
+            },
+            {
+                "time": "2026-08-21 22:10",
+                "active_players": 46
+            },
+            {
+                "time": "2026-08-21 22:21",
+                "active_players": 40
+            },
+            {
+                "time": "2026-08-21 22:31",
+                "active_players": 41
+            },
+            {
+                "time": "2026-08-21 22:41",
+                "active_players": 37
+            },
+            {
+                "time": "2026-08-21 22:51",
+                "active_players": 51
+            },
+            {
+                "time": "2026-08-21 23:01",
+                "active_players": 44
+            },
+            {
+                "time": "2026-08-21 23:11",
+                "active_players": 39
+            },
+            {
+                "time": "2026-08-21 23:21",
+                "active_players": 53
+            },
+            {
+                "time": "2026-08-21 23:31",
+                "active_players": 50
+            },
+            {
+                "time": "2026-08-21 23:41",
+                "active_players": 49
+            },
+            {
+                "time": "2026-08-21 23:51",
+                "active_players": 48
+            },
+            {
+                "time": "2026-08-22 00:01",
+                "active_players": 50
+            },
+            {
+                "time": "2026-08-22 00:11",
+                "active_players": 52
+            },
+            {
+                "time": "2026-08-22 00:21",
+                "active_players": 48
+            },
+            {
+                "time": "2026-08-22 00:31",
+                "active_players": 49
+            },
+            {
+                "time": "2026-08-22 00:41",
+                "active_players": 35
+            },
+            {
+                "time": "2026-08-22 00:51",
+                "active_players": 47
+            },
+            {
+                "time": "2026-08-22 01:01",
+                "active_players": 48
+            },
+            {
+                "time": "2026-08-22 01:11",
+                "active_players": 58
+            },
+            {
+                "time": "2026-08-22 01:22",
+                "active_players": 56
+            },
+            {
+                "time": "2026-08-22 01:32",
+                "active_players": 56
+            },
+            {
+                "time": "2026-08-22 01:42",
+                "active_players": 67
+            },
+            {
+                "time": "2026-08-22 01:52",
+                "active_players": 70
+            },
+            {
+                "time": "2026-08-22 02:02",
+                "active_players": 55
+            },
+            {
+                "time": "2026-08-22 02:12",
+                "active_players": 55
+            },
+            {
+                "time": "2026-08-22 02:22",
+                "active_players": 59
+            },
+            {
+                "time": "2026-08-22 02:32",
+                "active_players": 51
+            },
+            {
+                "time": "2026-08-22 02:42",
+                "active_players": 48
+            },
+            {
+                "time": "2026-08-22 02:52",
+                "active_players": 49
+            },
+            {
+                "time": "2026-08-22 03:02",
+                "active_players": 53
+            },
+            {
+                "time": "2026-08-22 03:12",
+                "active_players": 51
+            },
+            {
+                "time": "2026-08-22 03:22",
+                "active_players": 30
+            },
+            {
+                "time": "2026-08-22 03:32",
+                "active_players": 23
+            },
+            {
+                "time": "2026-08-22 03:42",
+                "active_players": 32
+            },
+            {
+                "time": "2026-08-22 03:52",
+                "active_players": 45
+            },
+            {
+                "time": "2026-08-22 04:02",
+                "active_players": 50
+            },
+            {
+                "time": "2026-08-22 04:13",
+                "active_players": 59
+            },
+            {
+                "time": "2026-08-22 04:23",
+                "active_players": 51
+            },
+            {
+                "time": "2026-08-22 04:33",
+                "active_players": 47
+            },
+            {
+                "time": "2026-08-22 04:43",
+                "active_players": 49
+            },
+            {
+                "time": "2026-08-22 04:53",
+                "active_players": 52
+            },
+            {
+                "time": "2026-08-22 05:03",
+                "active_players": 54
+            },
+            {
+                "time": "2026-08-22 05:27",
+                "active_players": 46
             }
-        ],
-        "url": "https://playvortex.io/games/8",
-        "thumbnail": "https://playvortex.io/api/games/8/thumbnail?v=c4933044",
-        "total_visits": 142701
+        ]
     },
-    "Demo": {
-        "all_time_peak": 4,
+    "Familiar Pizzeria": {
+        "all_time_peak": 6,
+        "total_visits": 16750,
+        "url": "https://playvortex.io/games/9",
+        "thumbnail": "https://playvortex.io/api/games/9/thumbnail?v=af25305a",
         "history": [
             {
                 "time": "2026-08-21 16:37",
@@ -88,23 +2339,23 @@
             },
             {
                 "time": "2026-08-21 16:51",
-                "active_players": 1
+                "active_players": 0
             },
             {
                 "time": "2026-08-21 16:56",
-                "active_players": 1
+                "active_players": 0
             },
             {
                 "time": "2026-08-21 16:57",
-                "active_players": 1
+                "active_players": 0
             },
             {
                 "time": "2026-08-21 16:59",
-                "active_players": 2
+                "active_players": 0
             },
             {
                 "time": "2026-08-21 17:02",
-                "active_players": 2
+                "active_players": 0
             },
             {
                 "time": "2026-08-21 17:12",
@@ -112,7 +2363,7 @@
             },
             {
                 "time": "2026-08-21 17:23",
-                "active_players": 1
+                "active_players": 0
             },
             {
                 "time": "2026-08-21 17:34",
@@ -128,7 +2379,7 @@
             },
             {
                 "time": "2026-08-21 18:04",
-                "active_players": 0
+                "active_players": 1
             },
             {
                 "time": "2026-08-21 18:08",
@@ -140,95 +2391,275 @@
             },
             {
                 "time": "2026-08-21 18:23",
-                "active_players": 4
-            },
-            {
-                "time": "2026-08-22 05:27",
-                "active_players": 1
-            }
-        ],
-        "url": "https://playvortex.io/games/1",
-        "thumbnail": "https://playvortex.io/api/games/1/thumbnail?v=51765f84",
-        "total_visits": 74643
-    },
-    "Snowy Peak": {
-        "all_time_peak": 6,
-        "history": [
-            {
-                "time": "2026-08-21 16:37",
-                "active_players": 1
-            },
-            {
-                "time": "2026-08-21 16:40",
-                "active_players": 1
-            },
-            {
-                "time": "2026-08-21 16:51",
-                "active_players": 1
-            },
-            {
-                "time": "2026-08-21 16:56",
-                "active_players": 1
-            },
-            {
-                "time": "2026-08-21 16:57",
-                "active_players": 1
-            },
-            {
-                "time": "2026-08-21 16:59",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 17:02",
+                "time": "2026-08-21 18:52",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 17:12",
+                "time": "2026-08-21 18:53",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 17:23",
+                "time": "2026-08-21 18:55",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 17:34",
+                "time": "2026-08-21 19:03",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 17:44",
+                "time": "2026-08-21 19:13",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:33",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 19:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:01",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 20:10",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 20:20",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:30",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 20:40",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 20:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:00",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 21:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:20",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:30",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:00",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:31",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 22:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:11",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:31",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:01",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 00:11",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:21",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 00:31",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 00:41",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 00:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:11",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:22",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:32",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:42",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:52",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:22",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 02:32",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:42",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:52",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:22",
                 "active_players": 5
             },
             {
-                "time": "2026-08-21 17:54",
+                "time": "2026-08-22 03:32",
                 "active_players": 6
             },
             {
-                "time": "2026-08-21 18:04",
-                "active_players": 1
+                "time": "2026-08-22 03:42",
+                "active_players": 3
             },
             {
-                "time": "2026-08-21 18:08",
-                "active_players": 1
+                "time": "2026-08-22 03:52",
+                "active_players": 3
             },
             {
-                "time": "2026-08-21 18:09",
+                "time": "2026-08-22 04:02",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-22 04:13",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 04:23",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 04:33",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 18:23",
+                "time": "2026-08-22 04:43",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 05:03",
                 "active_players": 0
             },
             {
                 "time": "2026-08-22 05:27",
                 "active_players": 0
             }
-        ],
-        "url": "https://playvortex.io/games/3",
-        "thumbnail": "https://playvortex.io/api/games/3/thumbnail?v=afc5ffe7",
-        "total_visits": 34071
+        ]
     },
-    "The Crossbridges": {
-        "all_time_peak": 1,
+    "Anixus Pond": {
+        "all_time_peak": 14,
+        "total_visits": 16040,
+        "url": "https://playvortex.io/games/10",
+        "thumbnail": "https://playvortex.io/api/games/10/thumbnail?v=65d14a72",
         "history": [
             {
                 "time": "2026-08-21 16:37",
@@ -240,15 +2671,15 @@
             },
             {
                 "time": "2026-08-21 16:51",
-                "active_players": 1
+                "active_players": 0
             },
             {
                 "time": "2026-08-21 16:56",
-                "active_players": 1
+                "active_players": 0
             },
             {
                 "time": "2026-08-21 16:57",
-                "active_players": 1
+                "active_players": 0
             },
             {
                 "time": "2026-08-21 16:59",
@@ -268,11 +2699,11 @@
             },
             {
                 "time": "2026-08-21 17:34",
-                "active_players": 0
+                "active_players": 1
             },
             {
                 "time": "2026-08-21 17:44",
-                "active_players": 0
+                "active_players": 2
             },
             {
                 "time": "2026-08-21 17:54",
@@ -292,19 +2723,275 @@
             },
             {
                 "time": "2026-08-21 18:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:52",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:55",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:03",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 19:13",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:33",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-21 19:53",
+                "active_players": 8
+            },
+            {
+                "time": "2026-08-21 20:01",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-21 20:10",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-21 20:20",
+                "active_players": 10
+            },
+            {
+                "time": "2026-08-21 20:30",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-21 20:40",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-21 20:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:00",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:20",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 21:30",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 21:40",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 21:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:00",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 22:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:31",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:41",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 22:51",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:11",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 23:31",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 23:41",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:51",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 00:01",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 00:11",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 00:21",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 00:31",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:11",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:22",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 01:32",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-22 01:42",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:52",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 02:02",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 02:12",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 02:22",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 02:32",
+                "active_players": 10
+            },
+            {
+                "time": "2026-08-22 02:42",
+                "active_players": 11
+            },
+            {
+                "time": "2026-08-22 02:52",
+                "active_players": 8
+            },
+            {
+                "time": "2026-08-22 03:02",
+                "active_players": 12
+            },
+            {
+                "time": "2026-08-22 03:12",
+                "active_players": 14
+            },
+            {
+                "time": "2026-08-22 03:22",
+                "active_players": 10
+            },
+            {
+                "time": "2026-08-22 03:32",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-22 03:42",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 03:52",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 04:02",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 04:13",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-22 04:23",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 04:33",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 04:43",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 04:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 05:03",
                 "active_players": 1
             },
             {
                 "time": "2026-08-22 05:27",
-                "active_players": 0
+                "active_players": 7
             }
-        ],
-        "url": "https://playvortex.io/games/4",
-        "thumbnail": "https://playvortex.io/api/games/4/thumbnail?v=16c2a180",
-        "total_visits": 32345
+        ]
     },
     "Banlands": {
         "all_time_peak": 12,
+        "total_visits": 22596,
+        "url": "https://playvortex.io/games/11",
+        "thumbnail": "https://playvortex.io/api/games/11/thumbnail?v=02171a1a",
         "history": [
             {
                 "time": "2026-08-21 16:37",
@@ -371,92 +3058,272 @@
                 "active_players": 12
             },
             {
-                "time": "2026-08-22 05:27",
-                "active_players": 0
-            }
-        ],
-        "url": "https://playvortex.io/games/11",
-        "thumbnail": "https://playvortex.io/api/games/11/thumbnail?v=02171a1a",
-        "total_visits": 22596
-    },
-    "Backrooms": {
-        "all_time_peak": 7,
-        "history": [
-            {
-                "time": "2026-08-21 16:37",
-                "active_players": 0
+                "time": "2026-08-21 18:52",
+                "active_players": 3
             },
             {
-                "time": "2026-08-21 16:40",
-                "active_players": 0
+                "time": "2026-08-21 18:53",
+                "active_players": 3
             },
             {
-                "time": "2026-08-21 16:51",
-                "active_players": 0
+                "time": "2026-08-21 18:55",
+                "active_players": 1
             },
             {
-                "time": "2026-08-21 16:56",
-                "active_players": 0
+                "time": "2026-08-21 19:03",
+                "active_players": 3
             },
             {
-                "time": "2026-08-21 16:57",
-                "active_players": 0
+                "time": "2026-08-21 19:13",
+                "active_players": 6
             },
             {
-                "time": "2026-08-21 16:59",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:02",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:12",
+                "time": "2026-08-21 19:23",
                 "active_players": 2
             },
             {
-                "time": "2026-08-21 17:23",
-                "active_players": 2
+                "time": "2026-08-21 19:33",
+                "active_players": 1
             },
             {
-                "time": "2026-08-21 17:34",
+                "time": "2026-08-21 19:43",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 17:44",
+                "time": "2026-08-21 19:53",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 17:54",
+                "time": "2026-08-21 20:01",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 18:04",
+                "time": "2026-08-21 20:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:20",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:30",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:00",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:10",
                 "active_players": 3
             },
             {
-                "time": "2026-08-21 18:08",
-                "active_players": 3
+                "time": "2026-08-21 21:20",
+                "active_players": 6
             },
             {
-                "time": "2026-08-21 18:09",
-                "active_players": 3
-            },
-            {
-                "time": "2026-08-21 18:23",
+                "time": "2026-08-21 21:30",
                 "active_players": 7
             },
             {
+                "time": "2026-08-21 21:40",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 21:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:00",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:10",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:21",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 22:31",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 22:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:51",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 23:01",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-21 23:11",
+                "active_players": 8
+            },
+            {
+                "time": "2026-08-21 23:21",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 23:31",
+                "active_players": 9
+            },
+            {
+                "time": "2026-08-21 23:41",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-21 23:51",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 00:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:11",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 00:21",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 00:31",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 00:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:51",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 01:01",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:11",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:22",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:32",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:42",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 01:52",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:02",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 02:12",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 02:22",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 02:32",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:42",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:52",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 03:02",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 03:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:22",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:32",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:42",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:52",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 04:02",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 04:13",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:33",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:43",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 04:53",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 05:03",
+                "active_players": 2
+            },
+            {
                 "time": "2026-08-22 05:27",
                 "active_players": 0
             }
-        ],
-        "url": "https://playvortex.io/games/14",
-        "thumbnail": "https://playvortex.io/api/games/14/thumbnail?v=3e7e05f1",
-        "total_visits": 21185
+        ]
     },
     "Classic House": {
-        "all_time_peak": 5,
+        "all_time_peak": 13,
+        "total_visits": 17901,
+        "url": "https://playvortex.io/games/13",
+        "thumbnail": "https://playvortex.io/api/games/13/thumbnail?v=52c913b4",
         "history": [
             {
                 "time": "2026-08-21 16:37",
@@ -523,320 +3390,272 @@
                 "active_players": 2
             },
             {
-                "time": "2026-08-22 05:27",
-                "active_players": 0
-            }
-        ],
-        "url": "https://playvortex.io/games/13",
-        "thumbnail": "https://playvortex.io/api/games/13/thumbnail?v=52c913b4",
-        "total_visits": 17901
-    },
-    "Vortex HQ": {
-        "all_time_peak": 1,
-        "history": [
-            {
-                "time": "2026-08-21 16:37",
+                "time": "2026-08-21 18:52",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 16:40",
+                "time": "2026-08-21 18:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 18:55",
                 "active_players": 1
             },
             {
-                "time": "2026-08-21 16:51",
+                "time": "2026-08-21 19:03",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 16:56",
+                "time": "2026-08-21 19:13",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 16:57",
+                "time": "2026-08-21 19:23",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 16:59",
+                "time": "2026-08-21 19:33",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 17:02",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:12",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:23",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:34",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:44",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:54",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 18:04",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 18:08",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 18:09",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 18:23",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-22 05:27",
-                "active_players": 0
-            }
-        ],
-        "url": "https://playvortex.io/games/7",
-        "thumbnail": "https://playvortex.io/api/games/7/thumbnail?v=61f82a80",
-        "total_visits": 17500
-    },
-    "Familiar Pizzeria": {
-        "all_time_peak": 1,
-        "history": [
-            {
-                "time": "2026-08-21 16:37",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 16:40",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 16:51",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 16:56",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 16:57",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 16:59",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:02",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:12",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:23",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:34",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:44",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:54",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 18:04",
+                "time": "2026-08-21 19:43",
                 "active_players": 1
             },
             {
-                "time": "2026-08-21 18:08",
+                "time": "2026-08-21 19:53",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 18:09",
+                "time": "2026-08-21 20:01",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 18:23",
+                "time": "2026-08-21 20:10",
                 "active_players": 0
             },
             {
-                "time": "2026-08-22 05:27",
-                "active_players": 0
-            }
-        ],
-        "url": "https://playvortex.io/games/9",
-        "thumbnail": "https://playvortex.io/api/games/9/thumbnail?v=af25305a",
-        "total_visits": 16750
-    },
-    "Anixus Pond": {
-        "all_time_peak": 6,
-        "history": [
-            {
-                "time": "2026-08-21 16:37",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 16:40",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 16:51",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 16:56",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 16:57",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 16:59",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:02",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:12",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:23",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:34",
-                "active_players": 1
-            },
-            {
-                "time": "2026-08-21 17:44",
+                "time": "2026-08-21 20:20",
                 "active_players": 2
             },
             {
-                "time": "2026-08-21 17:54",
-                "active_players": 0
+                "time": "2026-08-21 20:30",
+                "active_players": 2
             },
             {
-                "time": "2026-08-21 18:04",
-                "active_players": 0
+                "time": "2026-08-21 20:40",
+                "active_players": 2
             },
             {
-                "time": "2026-08-21 18:08",
+                "time": "2026-08-21 20:50",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 21:00",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 21:10",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 21:20",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 21:30",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 21:40",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 21:50",
                 "active_players": 1
             },
             {
-                "time": "2026-08-21 18:09",
-                "active_players": 1
-            },
-            {
-                "time": "2026-08-21 18:23",
+                "time": "2026-08-21 22:00",
                 "active_players": 0
             },
             {
-                "time": "2026-08-22 05:27",
+                "time": "2026-08-21 22:10",
+                "active_players": 10
+            },
+            {
+                "time": "2026-08-21 22:21",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:31",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:51",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:01",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:11",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-21 23:21",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-21 23:31",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 23:41",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-21 23:51",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-22 00:01",
+                "active_players": 13
+            },
+            {
+                "time": "2026-08-22 00:11",
+                "active_players": 9
+            },
+            {
+                "time": "2026-08-22 00:21",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 00:31",
                 "active_players": 6
-            }
-        ],
-        "url": "https://playvortex.io/games/10",
-        "thumbnail": "https://playvortex.io/api/games/10/thumbnail?v=65d14a72",
-        "total_visits": 16038
-    },
-    "Oasis": {
-        "all_time_peak": 2,
-        "history": [
+            },
             {
-                "time": "2026-08-21 16:37",
+                "time": "2026-08-22 00:41",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 00:51",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 01:01",
+                "active_players": 8
+            },
+            {
+                "time": "2026-08-22 01:11",
+                "active_players": 8
+            },
+            {
+                "time": "2026-08-22 01:22",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 01:32",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 16:40",
+                "time": "2026-08-22 01:42",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 16:51",
-                "active_players": 0
+                "time": "2026-08-22 01:52",
+                "active_players": 3
             },
             {
-                "time": "2026-08-21 16:56",
-                "active_players": 0
+                "time": "2026-08-22 02:02",
+                "active_players": 1
             },
             {
-                "time": "2026-08-21 16:57",
-                "active_players": 0
+                "time": "2026-08-22 02:12",
+                "active_players": 5
             },
             {
-                "time": "2026-08-21 16:59",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:02",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:12",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:23",
-                "active_players": 0
-            },
-            {
-                "time": "2026-08-21 17:34",
+                "time": "2026-08-22 02:22",
                 "active_players": 2
             },
             {
-                "time": "2026-08-21 17:44",
+                "time": "2026-08-22 02:32",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 02:42",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 02:52",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-22 03:02",
+                "active_players": 8
+            },
+            {
+                "time": "2026-08-22 03:12",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-22 03:22",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 17:54",
+                "time": "2026-08-22 03:32",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 18:04",
+                "time": "2026-08-22 03:42",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 03:52",
                 "active_players": 0
             },
             {
-                "time": "2026-08-21 18:08",
-                "active_players": 0
+                "time": "2026-08-22 04:02",
+                "active_players": 2
             },
             {
-                "time": "2026-08-21 18:09",
-                "active_players": 0
+                "time": "2026-08-22 04:13",
+                "active_players": 2
             },
             {
-                "time": "2026-08-21 18:23",
-                "active_players": 0
+                "time": "2026-08-22 04:23",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 04:33",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 04:43",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 04:53",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 05:03",
+                "active_players": 2
             },
             {
                 "time": "2026-08-22 05:27",
-                "active_players": 2
+                "active_players": 1
             }
-        ],
-        "url": "https://playvortex.io/games/5",
-        "thumbnail": "https://playvortex.io/api/games/5/thumbnail?v=a894fb4a",
-        "total_visits": 15903
+        ]
     },
-    "Pirate Ship Island": {
-        "all_time_peak": 3,
+    "Backrooms": {
+        "all_time_peak": 9,
+        "total_visits": 21185,
+        "url": "https://playvortex.io/games/14",
+        "thumbnail": "https://playvortex.io/api/games/14/thumbnail?v=3e7e05f1",
         "history": [
             {
                 "time": "2026-08-21 16:37",
@@ -868,11 +3687,11 @@
             },
             {
                 "time": "2026-08-21 17:12",
-                "active_players": 0
+                "active_players": 2
             },
             {
                 "time": "2026-08-21 17:23",
-                "active_players": 0
+                "active_players": 2
             },
             {
                 "time": "2026-08-21 17:34",
@@ -888,11 +3707,11 @@
             },
             {
                 "time": "2026-08-21 18:04",
-                "active_players": 0
+                "active_players": 3
             },
             {
                 "time": "2026-08-21 18:08",
-                "active_players": 2
+                "active_players": 3
             },
             {
                 "time": "2026-08-21 18:09",
@@ -900,15 +3719,268 @@
             },
             {
                 "time": "2026-08-21 18:23",
+                "active_players": 7
+            },
+            {
+                "time": "2026-08-21 18:52",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 18:53",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-21 18:55",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-21 19:03",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 19:13",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-21 19:23",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:33",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:43",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 19:53",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 20:01",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 20:10",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 20:20",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:30",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 20:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 20:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:00",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:10",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 21:20",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 21:30",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 21:40",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 21:50",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-21 22:00",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 22:10",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 22:21",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 22:31",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 22:41",
+                "active_players": 9
+            },
+            {
+                "time": "2026-08-21 22:51",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-21 23:01",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-21 23:11",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 23:21",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-21 23:31",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-21 23:41",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-21 23:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:01",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:11",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 00:21",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 00:31",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 00:41",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 00:51",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:01",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 01:11",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 01:22",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:32",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:42",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 01:52",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 02:02",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:12",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 02:22",
+                "active_players": 4
+            },
+            {
+                "time": "2026-08-22 02:32",
+                "active_players": 6
+            },
+            {
+                "time": "2026-08-22 02:42",
+                "active_players": 3
+            },
+            {
+                "time": "2026-08-22 02:52",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 03:02",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:12",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:22",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 03:32",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 03:42",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 03:52",
+                "active_players": 2
+            },
+            {
+                "time": "2026-08-22 04:02",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 04:13",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 04:23",
+                "active_players": 5
+            },
+            {
+                "time": "2026-08-22 04:33",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 04:43",
+                "active_players": 1
+            },
+            {
+                "time": "2026-08-22 04:53",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 05:03",
                 "active_players": 0
             },
             {
                 "time": "2026-08-22 05:27",
-                "active_players": 1
+                "active_players": 0
             }
-        ],
-        "url": "https://playvortex.io/games/6",
-        "thumbnail": "https://playvortex.io/api/games/6/thumbnail?v=6248e070",
-        "total_visits": 14464
+        ]
     }
 }
