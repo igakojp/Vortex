@@ -512,12 +512,16 @@
             {
                 "time": "2026-08-22 14:40",
                 "active_players": 0
+            },
+            {
+                "time": "2026-08-22 14:50",
+                "active_players": 0
             }
         ]
     },
     "Snowy Peak": {
         "all_time_peak": 7,
-        "total_visits": 34167,
+        "total_visits": 34169,
         "url": "https://playvortex.io/games/3",
         "thumbnail": "https://playvortex.io/api/games/3/thumbnail?v=afc5ffe7",
         "history": [
@@ -1028,12 +1032,16 @@
             {
                 "time": "2026-08-22 14:40",
                 "active_players": 1
+            },
+            {
+                "time": "2026-08-22 14:50",
+                "active_players": 0
             }
         ]
     },
     "The Crossbridges": {
         "all_time_peak": 8,
-        "total_visits": 32446,
+        "total_visits": 32449,
         "url": "https://playvortex.io/games/4",
         "thumbnail": "https://playvortex.io/api/games/4/thumbnail?v=16c2a180",
         "history": [
@@ -1544,6 +1552,10 @@
             {
                 "time": "2026-08-22 14:40",
                 "active_players": 5
+            },
+            {
+                "time": "2026-08-22 14:50",
+                "active_players": 6
             }
         ]
     },
@@ -2059,6 +2071,10 @@
             },
             {
                 "time": "2026-08-22 14:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 14:50",
                 "active_players": 0
             }
         ]
@@ -2576,12 +2592,16 @@
             {
                 "time": "2026-08-22 14:40",
                 "active_players": 0
+            },
+            {
+                "time": "2026-08-22 14:50",
+                "active_players": 0
             }
         ]
     },
     "Vortex HQ": {
         "all_time_peak": 14,
-        "total_visits": 17588,
+        "total_visits": 17589,
         "url": "https://playvortex.io/games/7",
         "thumbnail": "https://playvortex.io/api/games/7/thumbnail?v=61f82a80",
         "history": [
@@ -3092,12 +3112,16 @@
             {
                 "time": "2026-08-22 14:40",
                 "active_players": 0
+            },
+            {
+                "time": "2026-08-22 14:50",
+                "active_players": 1
             }
         ]
     },
     "Vortexia": {
         "all_time_peak": 128,
-        "total_visits": 144257,
+        "total_visits": 144268,
         "url": "https://playvortex.io/games/8",
         "thumbnail": "https://playvortex.io/api/games/8/thumbnail?v=c4933044",
         "history": [
@@ -3607,6 +3631,10 @@
             },
             {
                 "time": "2026-08-22 14:40",
+                "active_players": 16
+            },
+            {
+                "time": "2026-08-22 14:50",
                 "active_players": 16
             }
         ]
@@ -4124,6 +4152,10 @@
             {
                 "time": "2026-08-22 14:40",
                 "active_players": 0
+            },
+            {
+                "time": "2026-08-22 14:50",
+                "active_players": 0
             }
         ]
     },
@@ -4640,6 +4672,10 @@
             {
                 "time": "2026-08-22 14:40",
                 "active_players": 1
+            },
+            {
+                "time": "2026-08-22 14:50",
+                "active_players": 0
             }
         ]
     },
@@ -5156,12 +5192,16 @@
             {
                 "time": "2026-08-22 14:40",
                 "active_players": 1
+            },
+            {
+                "time": "2026-08-22 14:50",
+                "active_players": 0
             }
         ]
     },
     "Classic House": {
         "all_time_peak": 23,
-        "total_visits": 18148,
+        "total_visits": 18149,
         "url": "https://playvortex.io/games/13",
         "thumbnail": "https://playvortex.io/api/games/13/thumbnail?v=52c913b4",
         "history": [
@@ -5672,6 +5712,10 @@
             {
                 "time": "2026-08-22 14:40",
                 "active_players": 1
+            },
+            {
+                "time": "2026-08-22 14:50",
+                "active_players": 2
             }
         ]
     },
@@ -6187,6 +6231,10 @@
             },
             {
                 "time": "2026-08-22 14:40",
+                "active_players": 0
+            },
+            {
+                "time": "2026-08-22 14:50",
                 "active_players": 0
             }
         ]
