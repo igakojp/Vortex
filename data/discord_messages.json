@@ -1,1284 +1,6 @@
 [
   {
     "type": 0,
-    "content": "<@&1497048414859427870> more advanced physics demo, it just keeps getting better 👀",
-    "mentions": [],
-    "mention_roles": [
-      "1497048414859427870"
-    ],
-    "attachments": [
-      {
-        "id": "1550410146776096839",
-        "filename": "demo.mp4",
-        "size": 28360003,
-        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1550410146776096839/demo.mp4?ex=6aae3b78&is=6aace9f8&hm=c898f34952d67702c56c96d8afa7242faff93b413a26369c414529367e848ed0&",
-        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1550410146776096839/demo.mp4?ex=6aae3b78&is=6aace9f8&hm=c898f34952d67702c56c96d8afa7242faff93b413a26369c414529367e848ed0&",
-        "width": 1896,
-        "height": 1080,
-        "duration_secs": 54.483333587646484,
-        "content_type": "video/quicktime",
-        "original_content_type": "video/mp4",
-        "content_scan_version": 4,
-        "placeholder": "pXcJNIYCSDlih4mVeKiZgKn8eQ==",
-        "placeholder_version": 1
-      }
-    ],
-    "embeds": [],
-    "timestamp": "2026-09-18T07:36:24.640000+00:00",
-    "edited_timestamp": null,
-    "flags": 1,
-    "components": [],
-    "id": "1550410148541894686",
-    "channel_id": "1496552688320647228",
-    "author": {
-      "id": "1152788342392508447",
-      "username": "thehalodeveloper",
-      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
-      "discriminator": "0",
-      "public_flags": 128,
-      "flags": 128,
-      "banner": null,
-      "accent_color": null,
-      "global_name": "Halo",
-      "avatar_decoration_data": {
-        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
-        "sku_id": "1533914517329678408",
-        "expires_at": null
-      },
-      "collectibles": {
-        "nameplate": {
-          "sku_id": "1349849614286585866",
-          "asset": "nameplates/nameplates/cityscape/",
-          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
-          "palette": "violet"
-        }
-      },
-      "display_name_styles": {
-        "font_id": 7,
-        "effect_id": 4,
-        "colors": [
-          16332578
-        ]
-      },
-      "vad_colors": null,
-      "banner_color": null,
-      "clan": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      },
-      "primary_guild": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      }
-    },
-    "pinned": false,
-    "mention_everyone": false,
-    "tts": false,
-    "reactions": [
-      {
-        "emoji": {
-          "id": null,
-          "name": "🧊"
-        },
-        "count": 194,
-        "count_details": {
-          "burst": 0,
-          "normal": 194
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": false,
-        "burst_count": 0
-      }
-    ]
-  },
-  {
-    "type": 0,
-    "content": "<@&1496641132816371772> fps games and a bunch of more stuff will be possible with the upcoming studio update! hopefully tonight but lets see",
-    "mentions": [],
-    "mention_roles": [
-      "1496641132816371772"
-    ],
-    "attachments": [
-      {
-        "id": "1550364336122241134",
-        "filename": "test.mp4",
-        "size": 5213406,
-        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1550364336122241134/test.mp4?ex=6aae10ce&is=6aacbf4e&hm=a7da249638e1522d38b387320cbf06f191fb94f0f0670d6ffacdae00738d1d92&",
-        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1550364336122241134/test.mp4?ex=6aae10ce&is=6aacbf4e&hm=a7da249638e1522d38b387320cbf06f191fb94f0f0670d6ffacdae00738d1d92&",
-        "width": 3024,
-        "height": 1722,
-        "duration_secs": 23.799999237060547,
-        "content_type": "video/mp4",
-        "original_content_type": "video/mp4",
-        "content_scan_version": 4,
-        "placeholder": "WucJHISJd4ePeId6h3SakKUKOA==",
-        "placeholder_version": 1
-      }
-    ],
-    "embeds": [],
-    "timestamp": "2026-09-18T04:34:22.249000+00:00",
-    "edited_timestamp": null,
-    "flags": 1,
-    "components": [],
-    "id": "1550364336713769060",
-    "channel_id": "1496552688320647228",
-    "author": {
-      "id": "1152788342392508447",
-      "username": "thehalodeveloper",
-      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
-      "discriminator": "0",
-      "public_flags": 128,
-      "flags": 128,
-      "banner": null,
-      "accent_color": null,
-      "global_name": "Halo",
-      "avatar_decoration_data": {
-        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
-        "sku_id": "1533914517329678408",
-        "expires_at": null
-      },
-      "collectibles": {
-        "nameplate": {
-          "sku_id": "1349849614286585866",
-          "asset": "nameplates/nameplates/cityscape/",
-          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
-          "palette": "violet"
-        }
-      },
-      "display_name_styles": {
-        "font_id": 7,
-        "effect_id": 4,
-        "colors": [
-          16332578
-        ]
-      },
-      "vad_colors": null,
-      "banner_color": null,
-      "clan": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      },
-      "primary_guild": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      }
-    },
-    "pinned": false,
-    "mention_everyone": false,
-    "tts": false,
-    "reactions": [
-      {
-        "emoji": {
-          "id": null,
-          "name": "🔫"
-        },
-        "count": 539,
-        "count_details": {
-          "burst": 0,
-          "normal": 539
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": false,
-        "burst_count": 0
-      }
-    ]
-  },
-  {
-    "type": 0,
-    "content": "<@&1496641132816371772> studio update soon, including (but not limited to):\n\n- scripting intellisense/autocomplete (work in progress)\n- expanded scripting APIs\n- full rework of output/console panel\n- major engine optimizations\n- bug fixes\n- a bunch more 👀",
-    "mentions": [],
-    "mention_roles": [
-      "1496641132816371772"
-    ],
-    "attachments": [
-      {
-        "id": "1549968365915742319",
-        "filename": "Screenshot_2026-09-16_at_7.18.52_PM.png",
-        "size": 71901,
-        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1549968365915742319/Screenshot_2026-09-16_at_7.18.52_PM.png?ex=6aadf187&is=6aaca007&hm=92d35fcaf3558022a9065d9910e7864cad15d6b20faeb49acc3aeec9930f2582&",
-        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1549968365915742319/Screenshot_2026-09-16_at_7.18.52_PM.png?ex=6aadf187&is=6aaca007&hm=92d35fcaf3558022a9065d9910e7864cad15d6b20faeb49acc3aeec9930f2582&",
-        "width": 860,
-        "height": 398,
-        "content_type": "image/png",
-        "original_content_type": "image/png",
-        "content_scan_version": 4,
-        "placeholder": "yPcFA4BGaZifZlea12B2H1Y=",
-        "placeholder_version": 1,
-        "title": "Screenshot 2026-09-16 at 7.18.52 PM"
-      }
-    ],
-    "embeds": [],
-    "timestamp": "2026-09-17T02:20:55.488000+00:00",
-    "edited_timestamp": null,
-    "flags": 1,
-    "components": [],
-    "id": "1549968366058479628",
-    "channel_id": "1496552688320647228",
-    "author": {
-      "id": "1152788342392508447",
-      "username": "thehalodeveloper",
-      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
-      "discriminator": "0",
-      "public_flags": 128,
-      "flags": 128,
-      "banner": null,
-      "accent_color": null,
-      "global_name": "Halo",
-      "avatar_decoration_data": {
-        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
-        "sku_id": "1533914517329678408",
-        "expires_at": null
-      },
-      "collectibles": {
-        "nameplate": {
-          "sku_id": "1349849614286585866",
-          "asset": "nameplates/nameplates/cityscape/",
-          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
-          "palette": "violet"
-        }
-      },
-      "display_name_styles": {
-        "font_id": 7,
-        "effect_id": 4,
-        "colors": [
-          16332578
-        ]
-      },
-      "vad_colors": null,
-      "banner_color": null,
-      "clan": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      },
-      "primary_guild": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      }
-    },
-    "pinned": false,
-    "mention_everyone": false,
-    "tts": false,
-    "reactions": [
-      {
-        "emoji": {
-          "id": null,
-          "name": "🤩"
-        },
-        "count": 1071,
-        "count_details": {
-          "burst": 0,
-          "normal": 1071
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": true,
-        "burst_count": 0
-      }
-    ]
-  },
-  {
-    "type": 0,
-    "content": "Sorry for the lack of public announcements/updates recently. Rest assured, we have been working behind the scenes to get our first version of publishing ready! With that, we have started releasing our first wave of new games, some including scripts!\n\nOur first scripted game has released, being **Click a Button** by <@964600402165268530> . Expect bugs for now, but these will be improved constantly! We'll also be rolling out more games as we receive more submissions from <@&1526330135714861086>.\n\n## <:Vortex:1535225308654075954> v0.5.4\n\n- Added Luau runtime to client!\n  - Includes client replication, server scripts, etc\n- Engine Optimizations with map colliders and scripts (more soon)\n- Expanded engine capabilities (lower frametime, dynamic memory allocation, etc)\n- Better packet protection (mix of UDP and TCP)\n- Bug fixes:\n  - Fixed broken install on every app launch\n  - Fixed player leaderboard not updating sometimes\n  - Fixed chat showing all join/leave events even prior to joining\n  - Fixed various scripting APIs and engine issues\n\nWe also started working on our first event, which we will reveal more details about soon! The foundations for an inventory system is also close to being done (not just for items, but for badges and other things as well). As a small teaser, we will be starting to ramp up development on **Vortex Lighthouse**, allowing the creation of clothing and other UGC items. This will also open up the doors for gamepasses and developer products. **Devlog 9** in a day or so will go into more detail about all of these recent updates and our plans for the future! \n\n\nALSO **MAJOR STUDIO UPDATES** COMING VERY SOON\n<@&1496641306179408003>",
-    "mentions": [
-      {
-        "id": "964600402165268530",
-        "username": "beastlyedgaming",
-        "avatar": "ba1e8069842d10c0c18c422ea6de6738",
-        "discriminator": "0",
-        "public_flags": 256,
-        "flags": 256,
-        "banner": null,
-        "accent_color": null,
-        "global_name": "Ed",
-        "avatar_decoration_data": null,
-        "collectibles": null,
-        "display_name_styles": null,
-        "vad_colors": null,
-        "banner_color": null,
-        "clan": {
-          "identity_guild_id": "1496551960294199386",
-          "identity_enabled": true,
-          "tag": "VRTX",
-          "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-        },
-        "primary_guild": {
-          "identity_guild_id": "1496551960294199386",
-          "identity_enabled": true,
-          "tag": "VRTX",
-          "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-        }
-      }
-    ],
-    "mention_roles": [
-      "1496641306179408003",
-      "1526330135714861086"
-    ],
-    "attachments": [],
-    "embeds": [],
-    "timestamp": "2026-09-13T08:20:20.888000+00:00",
-    "edited_timestamp": null,
-    "flags": 1,
-    "components": [],
-    "id": "1548609266439561226",
-    "channel_id": "1496552688320647228",
-    "author": {
-      "id": "1152788342392508447",
-      "username": "thehalodeveloper",
-      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
-      "discriminator": "0",
-      "public_flags": 128,
-      "flags": 128,
-      "banner": null,
-      "accent_color": null,
-      "global_name": "Halo",
-      "avatar_decoration_data": {
-        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
-        "sku_id": "1533914517329678408",
-        "expires_at": null
-      },
-      "collectibles": {
-        "nameplate": {
-          "sku_id": "1349849614286585866",
-          "asset": "nameplates/nameplates/cityscape/",
-          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
-          "palette": "violet"
-        }
-      },
-      "display_name_styles": {
-        "font_id": 7,
-        "effect_id": 4,
-        "colors": [
-          16332578
-        ]
-      },
-      "vad_colors": null,
-      "banner_color": null,
-      "clan": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      },
-      "primary_guild": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      }
-    },
-    "pinned": false,
-    "mention_everyone": false,
-    "tts": false,
-    "reactions": [
-      {
-        "emoji": {
-          "id": null,
-          "name": "🔥"
-        },
-        "count": 1217,
-        "count_details": {
-          "burst": 0,
-          "normal": 1217
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": false,
-        "burst_count": 0
-      }
-    ]
-  },
-  {
-    "type": 0,
-    "content": "ill post more detailed patch notes for studio later if i feel like it",
-    "mentions": [],
-    "mention_roles": [],
-    "attachments": [],
-    "embeds": [],
-    "timestamp": "2026-09-01T04:27:29.220000+00:00",
-    "edited_timestamp": null,
-    "flags": 1,
-    "components": [],
-    "id": "1544202010629378179",
-    "channel_id": "1496552688320647228",
-    "author": {
-      "id": "1152788342392508447",
-      "username": "thehalodeveloper",
-      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
-      "discriminator": "0",
-      "public_flags": 128,
-      "flags": 128,
-      "banner": null,
-      "accent_color": null,
-      "global_name": "Halo",
-      "avatar_decoration_data": {
-        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
-        "sku_id": "1533914517329678408",
-        "expires_at": null
-      },
-      "collectibles": {
-        "nameplate": {
-          "sku_id": "1349849614286585866",
-          "asset": "nameplates/nameplates/cityscape/",
-          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
-          "palette": "violet"
-        }
-      },
-      "display_name_styles": {
-        "font_id": 7,
-        "effect_id": 4,
-        "colors": [
-          16332578
-        ]
-      },
-      "vad_colors": null,
-      "banner_color": null,
-      "clan": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      },
-      "primary_guild": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      }
-    },
-    "pinned": false,
-    "mention_everyone": false,
-    "tts": false
-  },
-  {
-    "type": 0,
-    "content": "# <:VortexStudio:1535225406863441960> SCRIPTING + <:Vortex:1535225308654075954> GROUPS\nVERY short update but both **Studio Scripting** and **[Groups](https://playvortex.io/groups)** have released (they have been out for 1-2 days actually, but I've been doing bug fixes). More updates to both of these things are coming soon!\n\nAs you know, we are also hosting the first Vortex Event in the coming weeks, for which we need [Event Coordinators](https://forms.gle/vSxoNfcKJL9JrPt3A). Feel free to apply if you are interested! The form will stay open, but we will likely start reviewing tomorrow or the day after. And yea we are still working on getting limiteds within the next few days with our upcoming catalog update\n<@&1496641132816371772> <@&1496641306179408003> <@&1536437180061327420>",
-    "mentions": [],
-    "mention_roles": [
-      "1496641306179408003",
-      "1496641132816371772",
-      "1536437180061327420"
-    ],
-    "attachments": [],
-    "embeds": [
-      {
-        "type": "link",
-        "url": "https://forms.gle/vSxoNfcKJL9JrPt3A",
-        "title": "Vortex Event Coordinator Application",
-        "description": "We are currently looking for creative people who can help us coordinate our official platform-wide events, which will aim to happen at least a few times per year. You'll be working with staff, contributors, and other potential coordinators to help put together event concepts and plans to create a fun event for everyone!",
-        "provider": {
-          "name": "Google Docs"
-        },
-        "thumbnail": {
-          "url": "https://lh6.googleusercontent.com/_xJkcoPrZTlSRtnW5MqCUnYUnRNwnQ3yzhUIA7BR9k1kq_35AKJhgMJsvKsy1F0vMa1tvOkSxVy6ErQ=w1200-h630-p",
-          "proxy_url": "https://images-ext-1.discordapp.net/external/g-wt2wMve918oLNUh73ZqanUd23PHjbwn0KbzZJmS30/https/lh6.googleusercontent.com/_xJkcoPrZTlSRtnW5MqCUnYUnRNwnQ3yzhUIA7BR9k1kq_35AKJhgMJsvKsy1F0vMa1tvOkSxVy6ErQ%3Dw1200-h630-p",
-          "width": 200,
-          "height": 200,
-          "content_type": "image/png",
-          "placeholder": "/AcGDICHiWhwjHmEeocHg5P92A==",
-          "placeholder_version": 1,
-          "flags": 0
-        },
-        "content_scan_version": 4
-      }
-    ],
-    "timestamp": "2026-09-01T04:26:21.185000+00:00",
-    "edited_timestamp": "2026-09-01T04:46:40.654000+00:00",
-    "flags": 1,
-    "components": [],
-    "id": "1544201725270032436",
-    "channel_id": "1496552688320647228",
-    "author": {
-      "id": "1152788342392508447",
-      "username": "thehalodeveloper",
-      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
-      "discriminator": "0",
-      "public_flags": 128,
-      "flags": 128,
-      "banner": null,
-      "accent_color": null,
-      "global_name": "Halo",
-      "avatar_decoration_data": {
-        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
-        "sku_id": "1533914517329678408",
-        "expires_at": null
-      },
-      "collectibles": {
-        "nameplate": {
-          "sku_id": "1349849614286585866",
-          "asset": "nameplates/nameplates/cityscape/",
-          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
-          "palette": "violet"
-        }
-      },
-      "display_name_styles": {
-        "font_id": 7,
-        "effect_id": 4,
-        "colors": [
-          16332578
-        ]
-      },
-      "vad_colors": null,
-      "banner_color": null,
-      "clan": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      },
-      "primary_guild": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      }
-    },
-    "pinned": false,
-    "mention_everyone": false,
-    "tts": false,
-    "reactions": [
-      {
-        "emoji": {
-          "id": null,
-          "name": "🔥"
-        },
-        "count": 1001,
-        "count_details": {
-          "burst": 0,
-          "normal": 1001
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": true,
-        "burst_count": 0
-      }
-    ]
-  },
-  {
-    "type": 0,
-    "content": "<@&1496641132816371772> <@&1497048414859427870> havent done a mini devlog in a while but this is some exciting stuff!! sorry to keep you waiting <:Worry_cat:1538895792897523722>",
-    "mentions": [],
-    "mention_roles": [
-      "1496641132816371772",
-      "1497048414859427870"
-    ],
-    "attachments": [
-      {
-        "id": "1543135514910134272",
-        "filename": "minidevlog.mp4",
-        "size": 80746607,
-        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1543135514910134272/minidevlog.mp4?ex=6aae2270&is=6aacd0f0&hm=3184c8aed224f270b52a3be2802fc28560f2fcd589294f494d1950658884b2e4&",
-        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1543135514910134272/minidevlog.mp4?ex=6aae2270&is=6aacd0f0&hm=3184c8aed224f270b52a3be2802fc28560f2fcd589294f494d1950658884b2e4&",
-        "width": 1920,
-        "height": 1080,
-        "duration_secs": 105.3203125,
-        "content_type": "video/mp4",
-        "original_content_type": "video/mp4",
-        "content_scan_version": 4,
-        "placeholder": "kvcJDIIcWGSbhndQemKmcWAINg==",
-        "placeholder_version": 1
-      }
-    ],
-    "embeds": [],
-    "timestamp": "2026-08-29T05:49:37.767000+00:00",
-    "edited_timestamp": null,
-    "flags": 1,
-    "components": [],
-    "id": "1543135518857101343",
-    "channel_id": "1496552688320647228",
-    "author": {
-      "id": "1152788342392508447",
-      "username": "thehalodeveloper",
-      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
-      "discriminator": "0",
-      "public_flags": 128,
-      "flags": 128,
-      "banner": null,
-      "accent_color": null,
-      "global_name": "Halo",
-      "avatar_decoration_data": {
-        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
-        "sku_id": "1533914517329678408",
-        "expires_at": null
-      },
-      "collectibles": {
-        "nameplate": {
-          "sku_id": "1349849614286585866",
-          "asset": "nameplates/nameplates/cityscape/",
-          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
-          "palette": "violet"
-        }
-      },
-      "display_name_styles": {
-        "font_id": 7,
-        "effect_id": 4,
-        "colors": [
-          16332578
-        ]
-      },
-      "vad_colors": null,
-      "banner_color": null,
-      "clan": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      },
-      "primary_guild": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      }
-    },
-    "pinned": false,
-    "mention_everyone": false,
-    "tts": false,
-    "reactions": [
-      {
-        "emoji": {
-          "id": null,
-          "name": "🔥"
-        },
-        "count": 1330,
-        "count_details": {
-          "burst": 0,
-          "normal": 1330
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": true,
-        "burst_count": 0
-      }
-    ]
-  },
-  {
-    "type": 0,
-    "content": "## v0.4 - PHYSICS REVAMP\n\n- Fully rewrote physics, this will continue to be improved over the coming updates\n- Added **Mini Tower of Vortex** by <@538365445749866507>  to [Demo](https://playvortex.io/games/1) (to test new physics better)\n- Heavy website optimizations\n- Bug fixes:\n  - Fixed profile pictures not updating\n  - Fixed profile pictures not showing accessories\n  - Fixed authentication issues with client\n\nlots of more stuff internally that were changed/added, in preparation for scripting 👀 these new physics will allow for so many more possibilities when its comes to game development, we'll be seeing more soon! <@&1496641306179408003> \n\n-# also new thumbnails for a few games :p",
-    "mentions": [
-      {
-        "id": "538365445749866507",
-        "username": "actuallykostas",
-        "avatar": "5b5575ebb66fa713e82b5ddf11b104ec",
-        "discriminator": "0",
-        "public_flags": 128,
-        "flags": 128,
-        "banner": null,
-        "accent_color": null,
-        "global_name": "kostas",
-        "avatar_decoration_data": {
-          "asset": "a_f7dcc7b9b55715880755e24ff440f241",
-          "sku_id": "1343751617337491516",
-          "expires_at": null
-        },
-        "collectibles": {
-          "nameplate": {
-            "sku_id": "1417311919487848619",
-            "asset": "nameplates/nameplate_bonanza/starfall_tides_void/",
-            "label": "COLLECTIBLES_NAMEPLATE_BONANZA_STARFALL_TIDES_VOID_NP_A11Y",
-            "palette": "violet"
-          }
-        },
-        "display_name_styles": {
-          "font_id": 6,
-          "effect_id": 4,
-          "colors": [
-            11080677
-          ]
-        },
-        "vad_colors": null,
-        "banner_color": null,
-        "clan": null,
-        "primary_guild": null
-      }
-    ],
-    "mention_roles": [
-      "1496641306179408003"
-    ],
-    "attachments": [],
-    "embeds": [],
-    "timestamp": "2026-08-25T08:42:18.857000+00:00",
-    "edited_timestamp": null,
-    "flags": 1,
-    "components": [],
-    "id": "1541729424955809842",
-    "channel_id": "1496552688320647228",
-    "author": {
-      "id": "1152788342392508447",
-      "username": "thehalodeveloper",
-      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
-      "discriminator": "0",
-      "public_flags": 128,
-      "flags": 128,
-      "banner": null,
-      "accent_color": null,
-      "global_name": "Halo",
-      "avatar_decoration_data": {
-        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
-        "sku_id": "1533914517329678408",
-        "expires_at": null
-      },
-      "collectibles": {
-        "nameplate": {
-          "sku_id": "1349849614286585866",
-          "asset": "nameplates/nameplates/cityscape/",
-          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
-          "palette": "violet"
-        }
-      },
-      "display_name_styles": {
-        "font_id": 7,
-        "effect_id": 4,
-        "colors": [
-          16332578
-        ]
-      },
-      "vad_colors": null,
-      "banner_color": null,
-      "clan": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      },
-      "primary_guild": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      }
-    },
-    "pinned": false,
-    "mention_everyone": false,
-    "tts": false,
-    "reactions": [
-      {
-        "emoji": {
-          "id": null,
-          "name": "🔥"
-        },
-        "count": 975,
-        "count_details": {
-          "burst": 0,
-          "normal": 975
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": true,
-        "burst_count": 0
-      },
-      {
-        "emoji": {
-          "id": null,
-          "name": "🇼"
-        },
-        "count": 720,
-        "count_details": {
-          "burst": 0,
-          "normal": 720
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": true,
-        "burst_count": 0
-      },
-      {
-        "emoji": {
-          "id": null,
-          "name": "🇴"
-        },
-        "count": 686,
-        "count_details": {
-          "burst": 0,
-          "normal": 686
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": true,
-        "burst_count": 0
-      },
-      {
-        "emoji": {
-          "id": "988674699359813642",
-          "name": "W_"
-        },
-        "count": 696,
-        "count_details": {
-          "burst": 0,
-          "normal": 696
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": true,
-        "burst_count": 0
-      },
-      {
-        "emoji": {
-          "id": null,
-          "name": "😱"
-        },
-        "count": 69,
-        "count_details": {
-          "burst": 0,
-          "normal": 69
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": false,
-        "burst_count": 0
-      }
-    ]
-  },
-  {
-    "type": 0,
-    "content": "yes this is the tower from the demo thumbnail 3 months ago 😭",
-    "mentions": [],
-    "mention_roles": [],
-    "attachments": [],
-    "embeds": [],
-    "timestamp": "2026-08-24T18:14:18.014000+00:00",
-    "edited_timestamp": null,
-    "flags": 0,
-    "components": [],
-    "id": "1541510982067687515",
-    "channel_id": "1496552688320647228",
-    "author": {
-      "id": "1152788342392508447",
-      "username": "thehalodeveloper",
-      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
-      "discriminator": "0",
-      "public_flags": 128,
-      "flags": 128,
-      "banner": null,
-      "accent_color": null,
-      "global_name": "Halo",
-      "avatar_decoration_data": {
-        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
-        "sku_id": "1533914517329678408",
-        "expires_at": null
-      },
-      "collectibles": {
-        "nameplate": {
-          "sku_id": "1349849614286585866",
-          "asset": "nameplates/nameplates/cityscape/",
-          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
-          "palette": "violet"
-        }
-      },
-      "display_name_styles": {
-        "font_id": 7,
-        "effect_id": 4,
-        "colors": [
-          16332578
-        ]
-      },
-      "vad_colors": null,
-      "banner_color": null,
-      "clan": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      },
-      "primary_guild": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      }
-    },
-    "pinned": false,
-    "mention_everyone": false,
-    "tts": false,
-    "reactions": [
-      {
-        "emoji": {
-          "id": null,
-          "name": "😭"
-        },
-        "count": 676,
-        "count_details": {
-          "burst": 0,
-          "normal": 676
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": false,
-        "burst_count": 0
-      }
-    ]
-  },
-  {
-    "type": 0,
-    "content": "<@&1496641132816371772> \nupcoming physics update and obby made by <@538365445749866507> , releasing later today!\nthese physics feel much more familiar and most of the current bugs have been patched.\n\n-# thanks to <@879434242201882654> for helping with physics!",
-    "mentions": [
-      {
-        "id": "538365445749866507",
-        "username": "actuallykostas",
-        "avatar": "5b5575ebb66fa713e82b5ddf11b104ec",
-        "discriminator": "0",
-        "public_flags": 128,
-        "flags": 128,
-        "banner": null,
-        "accent_color": null,
-        "global_name": "kostas",
-        "avatar_decoration_data": {
-          "asset": "a_f7dcc7b9b55715880755e24ff440f241",
-          "sku_id": "1343751617337491516",
-          "expires_at": null
-        },
-        "collectibles": {
-          "nameplate": {
-            "sku_id": "1417311919487848619",
-            "asset": "nameplates/nameplate_bonanza/starfall_tides_void/",
-            "label": "COLLECTIBLES_NAMEPLATE_BONANZA_STARFALL_TIDES_VOID_NP_A11Y",
-            "palette": "violet"
-          }
-        },
-        "display_name_styles": {
-          "font_id": 6,
-          "effect_id": 4,
-          "colors": [
-            11080677
-          ]
-        },
-        "vad_colors": null,
-        "banner_color": null,
-        "clan": null,
-        "primary_guild": null
-      },
-      {
-        "id": "879434242201882654",
-        "username": "zytwqxs",
-        "avatar": "773f71ed1f1aa3105b16f8042f268a9c",
-        "discriminator": "0",
-        "public_flags": 0,
-        "flags": 0,
-        "banner": null,
-        "accent_color": null,
-        "global_name": "Zytwqxs",
-        "avatar_decoration_data": null,
-        "collectibles": null,
-        "display_name_styles": null,
-        "vad_colors": null,
-        "banner_color": null,
-        "clan": null,
-        "primary_guild": null
-      }
-    ],
-    "mention_roles": [
-      "1496641132816371772"
-    ],
-    "attachments": [
-      {
-        "id": "1541510735056863283",
-        "filename": "test.mp4",
-        "size": 23487525,
-        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1541510735056863283/test.mp4?ex=6aae27ff&is=6aacd67f&hm=dd7e88b89e7426fa5846a8e7335f5df974ca01e956aa2bb703bc34117cb02389&",
-        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1541510735056863283/test.mp4?ex=6aae27ff&is=6aacd67f&hm=dd7e88b89e7426fa5846a8e7335f5df974ca01e956aa2bb703bc34117cb02389&",
-        "width": 3024,
-        "height": 1732,
-        "duration_secs": 53.30833053588867,
-        "content_type": "video/mp4",
-        "original_content_type": "video/mp4",
-        "content_scan_version": 4,
-        "placeholder": "3LYNFIY/bJZ0eIhgaXagiR/L+A==",
-        "placeholder_version": 1
-      }
-    ],
-    "embeds": [],
-    "timestamp": "2026-08-24T18:13:19.460000+00:00",
-    "edited_timestamp": null,
-    "flags": 1,
-    "components": [],
-    "id": "1541510736474542200",
-    "channel_id": "1496552688320647228",
-    "author": {
-      "id": "1152788342392508447",
-      "username": "thehalodeveloper",
-      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
-      "discriminator": "0",
-      "public_flags": 128,
-      "flags": 128,
-      "banner": null,
-      "accent_color": null,
-      "global_name": "Halo",
-      "avatar_decoration_data": {
-        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
-        "sku_id": "1533914517329678408",
-        "expires_at": null
-      },
-      "collectibles": {
-        "nameplate": {
-          "sku_id": "1349849614286585866",
-          "asset": "nameplates/nameplates/cityscape/",
-          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
-          "palette": "violet"
-        }
-      },
-      "display_name_styles": {
-        "font_id": 7,
-        "effect_id": 4,
-        "colors": [
-          16332578
-        ]
-      },
-      "vad_colors": null,
-      "banner_color": null,
-      "clan": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      },
-      "primary_guild": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      }
-    },
-    "pinned": false,
-    "mention_everyone": false,
-    "tts": false,
-    "reactions": [
-      {
-        "emoji": {
-          "id": null,
-          "name": "🔥"
-        },
-        "count": 988,
-        "count_details": {
-          "burst": 0,
-          "normal": 988
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": false,
-        "burst_count": 0
-      },
-      {
-        "emoji": {
-          "id": null,
-          "name": "🇼"
-        },
-        "count": 749,
-        "count_details": {
-          "burst": 0,
-          "normal": 749
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": false,
-        "burst_count": 0
-      },
-      {
-        "emoji": {
-          "id": null,
-          "name": "🇴"
-        },
-        "count": 704,
-        "count_details": {
-          "burst": 0,
-          "normal": 704
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": false,
-        "burst_count": 0
-      },
-      {
-        "emoji": {
-          "id": "988674699359813642",
-          "name": "W_"
-        },
-        "count": 720,
-        "count_details": {
-          "burst": 0,
-          "normal": 720
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": false,
-        "burst_count": 0
-      },
-      {
-        "emoji": {
-          "id": null,
-          "name": "❤️"
-        },
-        "count": 560,
-        "count_details": {
-          "burst": 0,
-          "normal": 560
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": false,
-        "burst_count": 0
-      },
-      {
-        "emoji": {
-          "id": "1505979865940234260",
-          "name": "ohmygod"
-        },
-        "count": 198,
-        "count_details": {
-          "burst": 0,
-          "normal": 198
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": false,
-        "burst_count": 0
-      }
-    ]
-  },
-  {
-    "type": 0,
-    "content": "you can now safely interact with moving parts",
-    "mentions": [],
-    "mention_roles": [],
-    "attachments": [
-      {
-        "id": "1541182950970753165",
-        "filename": "test.mp4",
-        "size": 2566115,
-        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1541182950970753165/test.mp4?ex=6aae4839&is=6aacf6b9&hm=9de9ba0de32099702a575ecbcbfeae10292b4ffec0b4757823b6bf693aaccdbd&",
-        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1541182950970753165/test.mp4?ex=6aae4839&is=6aacf6b9&hm=9de9ba0de32099702a575ecbcbfeae10292b4ffec0b4757823b6bf693aaccdbd&",
-        "width": 3024,
-        "height": 1668,
-        "duration_secs": 11.558333396911621,
-        "content_type": "video/mp4",
-        "original_content_type": "video/mp4",
-        "content_scan_version": 4,
-        "placeholder": "mdcNFIINeadld4hwi5jXUAwqug==",
-        "placeholder_version": 1
-      }
-    ],
-    "embeds": [],
-    "timestamp": "2026-08-23T20:30:49.417000+00:00",
-    "edited_timestamp": null,
-    "flags": 1,
-    "components": [],
-    "id": "1541182951436460063",
-    "channel_id": "1496552688320647228",
-    "author": {
-      "id": "1152788342392508447",
-      "username": "thehalodeveloper",
-      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
-      "discriminator": "0",
-      "public_flags": 128,
-      "flags": 128,
-      "banner": null,
-      "accent_color": null,
-      "global_name": "Halo",
-      "avatar_decoration_data": {
-        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
-        "sku_id": "1533914517329678408",
-        "expires_at": null
-      },
-      "collectibles": {
-        "nameplate": {
-          "sku_id": "1349849614286585866",
-          "asset": "nameplates/nameplates/cityscape/",
-          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
-          "palette": "violet"
-        }
-      },
-      "display_name_styles": {
-        "font_id": 7,
-        "effect_id": 4,
-        "colors": [
-          16332578
-        ]
-      },
-      "vad_colors": null,
-      "banner_color": null,
-      "clan": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      },
-      "primary_guild": {
-        "identity_guild_id": "1496551960294199386",
-        "identity_enabled": true,
-        "tag": "VRTX",
-        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
-      }
-    },
-    "pinned": false,
-    "mention_everyone": false,
-    "tts": false,
-    "reactions": [
-      {
-        "emoji": {
-          "id": null,
-          "name": "🤩"
-        },
-        "count": 549,
-        "count_details": {
-          "burst": 0,
-          "normal": 549
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": false,
-        "burst_count": 0
-      },
-      {
-        "emoji": {
-          "id": "1529994010536444055",
-          "name": "Koen"
-        },
-        "count": 398,
-        "count_details": {
-          "burst": 0,
-          "normal": 398
-        },
-        "burst_colors": [],
-        "me_burst": false,
-        "burst_me": false,
-        "me": false,
-        "burst_count": 0
-      }
-    ]
-  },
-  {
-    "type": 0,
     "content": "SCRIPTING PROGRESS 1!!! you guys can guess all the services and stuff going on in this clip 👀 more soon, thanks for ALL the support bro genuinely 🫶 \n<@&1496641132816371772>",
     "mentions": [],
     "mention_roles": [
@@ -14681,6 +13403,1138 @@
         "count_details": {
           "burst": 0,
           "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "<@&1496641132816371772>",
+    "mentions": [],
+    "mention_roles": [
+      "1496641132816371772"
+    ],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-02T05:05:20.089000+00:00",
+    "edited_timestamp": null,
+    "flags": 1,
+    "components": [],
+    "id": "1500000215741108345",
+    "channel_id": "1496552688320647228",
+    "author": {
+      "id": "1152788342392508447",
+      "username": "thehalodeveloper",
+      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Halo",
+      "avatar_decoration_data": {
+        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
+        "sku_id": "1533914517329678408",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614286585866",
+          "asset": "nameplates/nameplates/cityscape/",
+          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          16332578
+        ]
+      },
+      "vad_colors": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "emote inventory 👀",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1499999304813903922",
+        "filename": "image.png",
+        "size": 160976,
+        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1499999304813903922/image.png?ex=6aae1736&is=6aacc5b6&hm=9954d7219158b8617ad16312a5fc28ad2555cea734ced5132c5a72722b4cb965&",
+        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1499999304813903922/image.png?ex=6aae1736&is=6aacc5b6&hm=9954d7219158b8617ad16312a5fc28ad2555cea734ced5132c5a72722b4cb965&",
+        "width": 1098,
+        "height": 1216,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "PfgBBgBwVEeod4Y2iFV1ljhlzTCJT8g=",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-05-02T05:01:42.968000+00:00",
+    "edited_timestamp": null,
+    "flags": 1,
+    "components": [],
+    "id": "1499999305069625474",
+    "channel_id": "1496552688320647228",
+    "author": {
+      "id": "547634481935286282",
+      "username": "paint.exe",
+      "avatar": "cc0bb98e2ee81f3a993475529097ed7a",
+      "discriminator": "0",
+      "public_flags": 64,
+      "flags": 64,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "paint.exe",
+      "avatar_decoration_data": null,
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1417311919735308399",
+          "asset": "nameplates/nameplate_bonanza/firefly_meadow/",
+          "label": "COLLECTIBLES_NAMEPLATE_BONANZA_FIREFLY_MEADOW_NP_A11Y",
+          "palette": "sky"
+        }
+      },
+      "display_name_styles": null,
+      "vad_colors": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 49,
+        "count_details": {
+          "burst": 0,
+          "normal": 49
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "👀"
+        },
+        "count": 26,
+        "count_details": {
+          "burst": 0,
+          "normal": 26
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": "761656988450422834",
+          "name": "eyeswtf",
+          "animated": true
+        },
+        "count": 25,
+        "count_details": {
+          "burst": 0,
+          "normal": 25
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🏳️‍⚧️"
+        },
+        "count": 10,
+        "count_details": {
+          "burst": 0,
+          "normal": 10
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "😐"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🥶"
+        },
+        "count": 9,
+        "count_details": {
+          "burst": 0,
+          "normal": 9
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "full release logs when devlog 2 releases soon!",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-01T02:38:32.382000+00:00",
+    "edited_timestamp": null,
+    "flags": 1,
+    "components": [],
+    "id": "1499600885674676395",
+    "channel_id": "1496552688320647228",
+    "author": {
+      "id": "1152788342392508447",
+      "username": "thehalodeveloper",
+      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Halo",
+      "avatar_decoration_data": {
+        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
+        "sku_id": "1533914517329678408",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614286585866",
+          "asset": "nameplates/nameplates/cityscape/",
+          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          16332578
+        ]
+      },
+      "vad_colors": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "<@&1496641306179408003> new game released!! (another test but its the first version of roblox importing)\njoin us rn https://vortex.towerstats.com/classic-house",
+    "mentions": [],
+    "mention_roles": [
+      "1496641306179408003"
+    ],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-01T02:38:20.226000+00:00",
+    "edited_timestamp": null,
+    "flags": 1,
+    "components": [],
+    "id": "1499600834688843896",
+    "channel_id": "1496552688320647228",
+    "author": {
+      "id": "1152788342392508447",
+      "username": "thehalodeveloper",
+      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Halo",
+      "avatar_decoration_data": {
+        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
+        "sku_id": "1533914517329678408",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614286585866",
+          "asset": "nameplates/nameplates/cityscape/",
+          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          16332578
+        ]
+      },
+      "vad_colors": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 20,
+        "count_details": {
+          "burst": 0,
+          "normal": 20
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "yes the next game is gonna be classic house",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-05-01T01:13:25.066000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1499579464038744124",
+    "channel_id": "1496552688320647228",
+    "author": {
+      "id": "1152788342392508447",
+      "username": "thehalodeveloper",
+      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Halo",
+      "avatar_decoration_data": {
+        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
+        "sku_id": "1533914517329678408",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614286585866",
+          "asset": "nameplates/nameplates/cityscape/",
+          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          16332578
+        ]
+      },
+      "vad_colors": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "👀"
+        },
+        "count": 15,
+        "count_details": {
+          "burst": 0,
+          "normal": 15
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "<@&1496641132816371772> been a while but dont worry theres a lot of stuff coming 👀",
+    "mentions": [],
+    "mention_roles": [
+      "1496641132816371772"
+    ],
+    "attachments": [
+      {
+        "id": "1499579364004728934",
+        "filename": "Screenshot_2026-04-30_at_6.12.40_PM.png",
+        "size": 4516108,
+        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1499579364004728934/Screenshot_2026-04-30_at_6.12.40_PM.png?ex=6aade19d&is=6aac901d&hm=ddf8ae5e02f1eb6fb1598d6cb16f00fcebc6a725efa366af892b430b44653cbe&",
+        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1499579364004728934/Screenshot_2026-04-30_at_6.12.40_PM.png?ex=6aade19d&is=6aac901d&hm=ddf8ae5e02f1eb6fb1598d6cb16f00fcebc6a725efa366af892b430b44653cbe&",
+        "width": 2854,
+        "height": 1466,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "mAgKFIJKl3dAd5eJh5cmm1DkCg==",
+        "placeholder_version": 1,
+        "title": "Screenshot 2026-04-30 at 6.12.40 PM"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-05-01T01:13:01.319000+00:00",
+    "edited_timestamp": null,
+    "flags": 1,
+    "components": [],
+    "id": "1499579364436611092",
+    "channel_id": "1496552688320647228",
+    "author": {
+      "id": "1152788342392508447",
+      "username": "thehalodeveloper",
+      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Halo",
+      "avatar_decoration_data": {
+        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
+        "sku_id": "1533914517329678408",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614286585866",
+          "asset": "nameplates/nameplates/cityscape/",
+          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          16332578
+        ]
+      },
+      "vad_colors": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 26,
+        "count_details": {
+          "burst": 0,
+          "normal": 26
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "[follow me ](https://vortex.towerstats.com/users/1/profile)",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-28T01:01:49.240000+00:00",
+    "edited_timestamp": null,
+    "flags": 1,
+    "components": [],
+    "id": "1498489381936300173",
+    "channel_id": "1496552688320647228",
+    "author": {
+      "id": "1152788342392508447",
+      "username": "thehalodeveloper",
+      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Halo",
+      "avatar_decoration_data": {
+        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
+        "sku_id": "1533914517329678408",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614286585866",
+          "asset": "nameplates/nameplates/cityscape/",
+          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          16332578
+        ]
+      },
+      "vad_colors": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false
+  },
+  {
+    "type": 0,
+    "content": "<@&1496641132816371772> following system + game page UI",
+    "mentions": [],
+    "mention_roles": [
+      "1496641132816371772"
+    ],
+    "attachments": [
+      {
+        "id": "1498489084090384496",
+        "filename": "Screenshot_2026-04-27_at_6.00.03_PM.png",
+        "size": 24810,
+        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1498489084090384496/Screenshot_2026-04-27_at_6.00.03_PM.png?ex=6aaddeb6&is=6aac8d36&hm=f3c11838b3aba59089e8489c5da5a4d53e85fb282745229fb323db37eef765b8&",
+        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1498489084090384496/Screenshot_2026-04-27_at_6.00.03_PM.png?ex=6aaddeb6&is=6aac8d36&hm=f3c11838b3aba59089e8489c5da5a4d53e85fb282745229fb323db37eef765b8&",
+        "width": 732,
+        "height": 212,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "efcJIoJRdKh1ePeaIHcLcrc=",
+        "placeholder_version": 1,
+        "title": "Screenshot 2026-04-27 at 6.00.03 PM"
+      },
+      {
+        "id": "1498489084320940183",
+        "filename": "Screenshot_2026-04-27_at_6.00.16_PM.png",
+        "size": 77147,
+        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1498489084320940183/Screenshot_2026-04-27_at_6.00.16_PM.png?ex=6aaddeb6&is=6aac8d36&hm=3b37e812d0350a17253bb2afa92f34327a15c959aab401c05f02537566d50749&",
+        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1498489084320940183/Screenshot_2026-04-27_at_6.00.16_PM.png?ex=6aaddeb6&is=6aac8d36&hm=3b37e812d0350a17253bb2afa92f34327a15c959aab401c05f02537566d50749&",
+        "width": 546,
+        "height": 518,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "u+cFD4LBraplmIi/VZd4d4iJJ13343YP",
+        "placeholder_version": 1,
+        "title": "Screenshot 2026-04-27 at 6.00.16 PM"
+      },
+      {
+        "id": "1498489084614803526",
+        "filename": "Screenshot_2026-04-27_at_6.00.27_PM.png",
+        "size": 880533,
+        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1498489084614803526/Screenshot_2026-04-27_at_6.00.27_PM.png?ex=6aaddeb6&is=6aac8d36&hm=e38e15839731a5779e0332d2909136f58a62bf648af7f20c2783963b34cc70bb&",
+        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1498489084614803526/Screenshot_2026-04-27_at_6.00.27_PM.png?ex=6aaddeb6&is=6aac8d36&hm=e38e15839731a5779e0332d2909136f58a62bf648af7f20c2783963b34cc70bb&",
+        "width": 1876,
+        "height": 1438,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "sdcJHYbperaBind/dVd4hGmAhweI",
+        "placeholder_version": 1,
+        "title": "Screenshot 2026-04-27 at 6.00.27 PM"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-28T01:00:38.399000+00:00",
+    "edited_timestamp": null,
+    "flags": 1,
+    "components": [],
+    "id": "1498489084807610579",
+    "channel_id": "1496552688320647228",
+    "author": {
+      "id": "1152788342392508447",
+      "username": "thehalodeveloper",
+      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Halo",
+      "avatar_decoration_data": {
+        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
+        "sku_id": "1533914517329678408",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614286585866",
+          "asset": "nameplates/nameplates/cityscape/",
+          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          16332578
+        ]
+      },
+      "vad_colors": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 28,
+        "count_details": {
+          "burst": 0,
+          "normal": 28
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "<@&1496641306179408003> <@&1496641132816371772> \nIMPORTING REALLY SOON! you'll be able to beat an obby hopefully like tommorow or day after\n\n- Profiles\n    - **EDIT BIO!**\n   - In-game / Online status \n   - Show join date\n   - Account deleted page (~5 accounts were deleted)\n- Chat\n    - Word wrap\n   - Filter\n- Misc\n    - Settings save\n   - Username filtering + special character limitations\n- Bug fixes:\n    - Patched [\"Wallclipping\"](https://vortexproject.fandom.com/wiki/Glitches#:~:text=Client%20blocks-,Wallclip,-Wallclips%20are%20performed)\n   - Patched [\"Walkstud side climbing\"](https://vortexproject.fandom.com/wiki/Glitches#:~:text=Heli-jumping-,Walkstud%20side%20climbing,-Climb%20a%201)\n   - Improved climbing logic (still not done)\n   - Friend requests not updating after accepting/rejecting\n   - Clicking friend requests takes you to a random ID\n   - Couldn't scroll in chat\n   - Couldn't see full friends list\n   - Pressing enter with no text didn't exit textbox\n   - Shiftlock doesn't work with right shift\n\ndevlog 2 tmrw i think",
+    "mentions": [],
+    "mention_roles": [
+      "1496641306179408003",
+      "1496641132816371772"
+    ],
+    "attachments": [
+      {
+        "id": "1497840183004106792",
+        "filename": "Screenshot_2026-04-25_at_10.37.29_PM.png",
+        "size": 117926,
+        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1497840183004106792/Screenshot_2026-04-25_at_10.37.29_PM.png?ex=6aae2560&is=6aacd3e0&hm=30b8202a6b83380f088a4da6dec43b136010425ee7fb105c6771933b523e8b62&",
+        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1497840183004106792/Screenshot_2026-04-25_at_10.37.29_PM.png?ex=6aae2560&is=6aacd3e0&hm=30b8202a6b83380f088a4da6dec43b136010425ee7fb105c6771933b523e8b62&",
+        "width": 1752,
+        "height": 1004,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "/QcGBIBll4hpdndpd2B0BAUSGQ==",
+        "placeholder_version": 1,
+        "title": "Screenshot 2026-04-25 at 10.37.29 PM"
+      },
+      {
+        "id": "1497840183259828245",
+        "filename": "Screenshot_2026-04-25_at_10.37.41_PM.png",
+        "size": 22894,
+        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1497840183259828245/Screenshot_2026-04-25_at_10.37.41_PM.png?ex=6aae2560&is=6aacd3e0&hm=a890b20ae46292a3e253b6d0bd607c0a70d8118dd4f864f3af48641c12181406&",
+        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1497840183259828245/Screenshot_2026-04-25_at_10.37.41_PM.png?ex=6aae2560&is=6aacd3e0&hm=a890b20ae46292a3e253b6d0bd607c0a70d8118dd4f864f3af48641c12181406&",
+        "width": 710,
+        "height": 266,
+        "content_type": "image/png",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "PQgGA4CFp7l4h/d5AAAAAAA=",
+        "placeholder_version": 1,
+        "title": "Screenshot 2026-04-25 at 10.37.41 PM"
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-26T06:02:08.097000+00:00",
+    "edited_timestamp": "2026-04-26T06:02:34.048000+00:00",
+    "flags": 1,
+    "components": [],
+    "id": "1497840182768963696",
+    "channel_id": "1496552688320647228",
+    "author": {
+      "id": "1152788342392508447",
+      "username": "thehalodeveloper",
+      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Halo",
+      "avatar_decoration_data": {
+        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
+        "sku_id": "1533914517329678408",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614286585866",
+          "asset": "nameplates/nameplates/cityscape/",
+          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          16332578
+        ]
+      },
+      "vad_colors": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 18,
+        "count_details": {
+          "burst": 0,
+          "normal": 18
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "🇼"
+        },
+        "count": 6,
+        "count_details": {
+          "burst": 0,
+          "normal": 6
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      },
+      {
+        "emoji": {
+          "id": null,
+          "name": "❤️"
+        },
+        "count": 5,
+        "count_details": {
+          "burst": 0,
+          "normal": 5
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "importing teaser <a:EyeSpin:1232480342581968988>",
+    "mentions": [],
+    "mention_roles": [],
+    "attachments": [
+      {
+        "id": "1497634811182059550",
+        "filename": "image.png",
+        "size": 119356,
+        "url": "https://cdn.discordapp.com/attachments/1496552688320647228/1497634811182059550/image.png?ex=6aae0edb&is=6aacbd5b&hm=5bb7a9914253fedfa509ec17cd5b40f08395016769a9c1f52037507a6622954a&",
+        "proxy_url": "https://media.discordapp.net/attachments/1496552688320647228/1497634811182059550/image.png?ex=6aae0edb&is=6aacbd5b&hm=5bb7a9914253fedfa509ec17cd5b40f08395016769a9c1f52037507a6622954a&",
+        "width": 906,
+        "height": 511,
+        "content_type": "image/webp",
+        "original_content_type": "image/png",
+        "content_scan_version": 4,
+        "placeholder": "1fcJBILX99h9e4p8iY/IcHYOhw==",
+        "placeholder_version": 1
+      }
+    ],
+    "embeds": [],
+    "timestamp": "2026-04-25T16:26:03.720000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1497634811286786212",
+    "channel_id": "1496552688320647228",
+    "author": {
+      "id": "539194357706653696",
+      "username": "lovelyjacob",
+      "avatar": "e50e7e5c3bd70fc4554846919e32dccc",
+      "discriminator": "0",
+      "public_flags": 256,
+      "flags": 256,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "LovelyJacob",
+      "avatar_decoration_data": {
+        "asset": "a_d943453ba3b3f0286c0a76a3b0b0f896",
+        "sku_id": "1538990902306152558",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1538991537399136407",
+          "asset": "nameplates/mystic_rose_petals/1538991537399136407/",
+          "label": "Pale, glowing rose petals drift across a lavender background",
+          "palette": "black"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 10,
+        "effect_id": 7,
+        "colors": [
+          4366590,
+          2702291,
+          3497950,
+          3163614,
+          2698969
+        ]
+      },
+      "vad_colors": null,
+      "banner_color": null,
+      "clan": null,
+      "primary_guild": null
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 14,
+        "count_details": {
+          "burst": 0,
+          "normal": 14
+        },
+        "burst_colors": [],
+        "me_burst": false,
+        "burst_me": false,
+        "me": false,
+        "burst_count": 0
+      }
+    ]
+  },
+  {
+    "type": 0,
+    "content": "big thanks to <@539194357706653696> and <@538365445749866507>",
+    "mentions": [
+      {
+        "id": "539194357706653696",
+        "username": "lovelyjacob",
+        "avatar": "e50e7e5c3bd70fc4554846919e32dccc",
+        "discriminator": "0",
+        "public_flags": 256,
+        "flags": 256,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "LovelyJacob",
+        "avatar_decoration_data": {
+          "asset": "a_d943453ba3b3f0286c0a76a3b0b0f896",
+          "sku_id": "1538990902306152558",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1538991537399136407",
+            "asset": "nameplates/mystic_rose_petals/1538991537399136407/",
+            "label": "Pale, glowing rose petals drift across a lavender background",
+            "palette": "black"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 10,
+          "effect_id": 7,
+          "colors": [
+            4366590,
+            2702291,
+            3497950,
+            3163614,
+            2698969
+          ]
+        },
+        "vad_colors": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      },
+      {
+        "id": "538365445749866507",
+        "username": "actuallykostas",
+        "avatar": "5b5575ebb66fa713e82b5ddf11b104ec",
+        "discriminator": "0",
+        "public_flags": 128,
+        "flags": 128,
+        "banner": null,
+        "accent_color": null,
+        "global_name": "kostas",
+        "avatar_decoration_data": {
+          "asset": "a_f7dcc7b9b55715880755e24ff440f241",
+          "sku_id": "1343751617337491516",
+          "expires_at": null
+        },
+        "collectibles": {
+          "nameplate": {
+            "sku_id": "1417311919487848619",
+            "asset": "nameplates/nameplate_bonanza/starfall_tides_void/",
+            "label": "COLLECTIBLES_NAMEPLATE_BONANZA_STARFALL_TIDES_VOID_NP_A11Y",
+            "palette": "violet"
+          }
+        },
+        "display_name_styles": {
+          "font_id": 6,
+          "effect_id": 4,
+          "colors": [
+            11080677
+          ]
+        },
+        "vad_colors": null,
+        "banner_color": null,
+        "clan": null,
+        "primary_guild": null
+      }
+    ],
+    "mention_roles": [],
+    "attachments": [],
+    "embeds": [],
+    "timestamp": "2026-04-25T06:31:40.331000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "id": "1497485228191780906",
+    "channel_id": "1496552688320647228",
+    "author": {
+      "id": "1152788342392508447",
+      "username": "thehalodeveloper",
+      "avatar": "93759125ff307aa0f5ac5748cbb41cd0",
+      "discriminator": "0",
+      "public_flags": 128,
+      "flags": 128,
+      "banner": null,
+      "accent_color": null,
+      "global_name": "Halo",
+      "avatar_decoration_data": {
+        "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
+        "sku_id": "1533914517329678408",
+        "expires_at": null
+      },
+      "collectibles": {
+        "nameplate": {
+          "sku_id": "1349849614286585866",
+          "asset": "nameplates/nameplates/cityscape/",
+          "label": "COLLECTIBLES_NAMEPLATES_CITYSCAPE_A11Y",
+          "palette": "violet"
+        }
+      },
+      "display_name_styles": {
+        "font_id": 7,
+        "effect_id": 4,
+        "colors": [
+          16332578
+        ]
+      },
+      "vad_colors": null,
+      "banner_color": null,
+      "clan": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      },
+      "primary_guild": {
+        "identity_guild_id": "1496551960294199386",
+        "identity_enabled": true,
+        "tag": "VRTX",
+        "badge": "ba8a90eede32aca30ce7305dfb77b4cd"
+      }
+    },
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "reactions": [
+      {
+        "emoji": {
+          "id": null,
+          "name": "🔥"
+        },
+        "count": 17,
+        "count_details": {
+          "burst": 0,
+          "normal": 17
         },
         "burst_colors": [],
         "me_burst": false,
